@@ -1,1 +1,0 @@
-// videodev.h & libv4l1-videodev.h -> /usr/include/linux
